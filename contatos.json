@@ -1,5 +1,5 @@
 {
-"lastUpdate": "2025-02-07T13:31:00Z",
+"lastUpdate": "2025-10-10T20:16:00Z",
 "Contacts":[
     { "id": "1", "nome": "Prof. Alexandre Magno", "email": "alexandre.oliveira@igarassu.ifpe.edu.br" },
     { "id": "2", "nome": "Profa. Alexandre Strapação", "email": "alexandre.vianna@igarassu.ifpe.edu.br" },
@@ -33,6 +33,7 @@
     { "id": "30", "nome": "Prof. Ramon Mota", "email": "ramon.farias@igarassu.ifpe.edu.br" },
     { "id": "31", "nome": "Prof. Ranieri Valença", "email": "ranieri.carvalho@igarassu.ifpe.edu.br" },
     { "id": "32", "nome": "Profa. Renata Queiroz", "email": "renata.costa@igarassu.ifpe.edu.br" },
+    { "id": "33", "nome": "Profa. Renata Santana", "email": "renata.santana@igarassu.ifpe.edu.br" },
     { "id": "33", "nome": "Prof. Roberto Cahú", "email": "roberto.cahu@igarassu.ifpe.edu.br" },
     { "id": "34", "nome": "Prof. Rodrigo Leite", "email": "rodrigo.araujo@igarassu.ifpe.edu.br" },
     { "id": "35", "nome": "Profa. Simonelle Wivian", "email": "simonelle.nascimento@igarassu.ifpe.edu.br" },
