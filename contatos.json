@@ -34,10 +34,10 @@
     { "id": "31", "nome": "Prof. Ranieri Valença", "email": "ranieri.carvalho@igarassu.ifpe.edu.br" },
     { "id": "32", "nome": "Profa. Renata Queiroz", "email": "renata.costa@igarassu.ifpe.edu.br" },
     { "id": "33", "nome": "Profa. Renata Santana", "email": "renata.santana@igarassu.ifpe.edu.br" },
-    { "id": "33", "nome": "Prof. Roberto Cahú", "email": "roberto.cahu@igarassu.ifpe.edu.br" },
-    { "id": "34", "nome": "Prof. Rodrigo Leite", "email": "rodrigo.araujo@igarassu.ifpe.edu.br" },
-    { "id": "35", "nome": "Profa. Simonelle Wivian", "email": "simonelle.nascimento@igarassu.ifpe.edu.br" },
-    { "id": "36", "nome": "Prof. Willyans Coelho", "email": "willyans.coelho@igarassu.ifpe.edu.br" },
-    { "id": "37", "nome": "Prof. Yuri Tietre", "email": "yuri.araujo@igarassu.ifpe.edu.br" }
+    { "id": "34", "nome": "Prof. Roberto Cahú", "email": "roberto.cahu@igarassu.ifpe.edu.br" },
+    { "id": "35", "nome": "Prof. Rodrigo Leite", "email": "rodrigo.araujo@igarassu.ifpe.edu.br" },
+    { "id": "36", "nome": "Profa. Simonelle Wivian", "email": "simonelle.nascimento@igarassu.ifpe.edu.br" },
+    { "id": "37", "nome": "Prof. Willyans Coelho", "email": "willyans.coelho@igarassu.ifpe.edu.br" },
+    { "id": "38", "nome": "Prof. Yuri Tietre", "email": "yuri.araujo@igarassu.ifpe.edu.br" }
   ]
 }
