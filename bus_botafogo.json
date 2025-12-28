@@ -1,0 +1,13 @@
+{
+  "lastUpdate": "2025-07-14",
+  "schedules": {
+    "weekday": [
+      { "departure": "04:00", "arrival": "04:20" },
+      { "departure": "04:35", "arrival": "04:55" }
+    ],
+    "weekend": [
+      { "departure": "04:30", "arrival": "04:50" },
+      { "departure": "05:30", "arrival": "05:50" }
+    ]
+  }
+}
