@@ -21,13 +21,13 @@
   },
   {
     "day": "09 e 10",
-    "name": "Encontro pedagógico 2025.2",
+    "name": "Encontro pedagógico 2026.1",
     "type": "Reuniões",
     "month": "Março"
   },
   {
     "day": "11",
-    "name": "INÍCIO DO SEMESTRE LETIVO 2025.2",
+    "name": "INÍCIO DO SEMESTRE LETIVO 2026.1",
     "type": "Início/Fim do período",
     "month": "Março"
   },
@@ -71,6 +71,12 @@
   {
     "day": "09",
     "name": "Notificação de Evasão",
+    "type": "CRADT",
+    "month": "Abril"
+  },
+  {
+    "day": "17",
+    "name": "Prazo final para o fechamento da listagem dos formandoso",
     "type": "CRADT",
     "month": "Abril"
   },
@@ -211,12 +217,6 @@
     "day": "11",
     "name": "Quadrilha da diversidade",
     "type": "Eventos",
-    "month": "Junho"
-  },
-  {
-    "day": "08",
-    "name": "Nossa Senhora da Conceição - Feriado Municipal",
-    "type": "Feriados",
     "month": "Junho"
   },
   {
