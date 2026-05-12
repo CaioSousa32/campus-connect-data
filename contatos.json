@@ -1,5 +1,5 @@
 {
-"lastUpdate": "2025-12-28T20:16:00Z",
+"lastUpdate": "2026-05-12T20:16:00Z",
 "Contacts":[
     { "id": "1", "nome": "Prof. Alexandre Magno", "email": "alexandre.oliveira@igarassu.ifpe.edu.br" },
     { "id": "2", "nome": "Profa. Alexandre Strapação", "email": "alexandre.vianna@igarassu.ifpe.edu.br" },
@@ -27,6 +27,7 @@
     { "id": "24", "nome": "Profa. Liliane Alves", "email": "liliane.sales@igarassu.ifpe.edu.br" },
     { "id": "25", "nome": "Prof. Lincoln Tavares", "email": "lincoln.santos@igarassu.ifpe.edu.br" },
     { "id": "26", "nome": "Prof. Luiz Henrique", "email": "luiz.martins@igarassu.ifpe.edu.br" },
+    { "id": "39", "nome": "Profa. Marcone Silva", "email": "marcone.silva@igarassu.ifpe.edu.br" },
     { "id": "27", "nome": "Profa. Mari Tania", "email": "mari.soares@igarassu.ifpe.edu.br" },
     { "id": "28", "nome": "Profa. Michelle Cedraz", "email": "michelle.oliveira@igarassu.ifpe.edu.br" },
     { "id": "29", "nome": "Prof. Milton Secundino", "email": "milton.junior@igarassu.ifpe.edu.br" },
