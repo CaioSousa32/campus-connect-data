@@ -1,0 +1,380 @@
+{
+"title": "Calendário 2026.2",
+"lastUpdate": "2026-09-04T00:00:00-08:00",
+"events": [
+  {
+    "day": "10",
+    "name": "Fim do Recesso Acadêmico",
+    "type": "Início/Fim do recesso",
+    "month": "Agosto"
+  },
+  {
+    "day": "07 a 10",
+    "name": "Matrícula Obrigatória para o próximo semestre/ano letivo (alunos veteranos - via Q-Acadêmico)",
+    "type": "CRADT",
+    "month": "Agosto"
+  },
+  {
+    "day": "10 e 11",
+    "name": "Encontro pedagógico 2026.2",
+    "type": "Reuniões",
+    "month": "Agosto"
+  },
+  {
+    "day": "13",
+    "name": "INÍCIO DO SEMESTRE LETIVO 2026.2",
+    "type": "Início/Fim do período",
+    "month": "Agosto"
+  },
+  {
+    "day": "13",
+    "name": "Boas vindas às (aos) estudantes",
+    "type": "Eventos",
+    "month": "Agosto"
+  },
+  {
+    "day": "20",
+    "name": "Último dia para entrega do Plano Individual de Trabalho",
+    "type": "CRADT",
+    "month": "Agosto"
+  },
+  {
+    "day": "25",
+    "name": "Início do período de solicitação de ajuste de matrícula nos componentes curriculares (via formulário de requerimento)",
+    "type": "CRADT",
+    "month": "Agosto"
+  },
+  {
+    "day": "27 a 28",
+    "name": "Semana da Pessoa com Deficiência",
+    "type": "Eventos",
+    "month": "Agosto"
+  },
+
+  {
+    "day": "07",
+    "name": "Independência do Brasil - Feriado Nacional",
+    "type": "Feriados",
+    "month": "Setembro"
+  },
+  {
+    "day": "08 a 10",
+    "name": "SACIG (Semana da Administração)",
+    "type": "Eventos",
+    "month": "Setembro"
+  },
+  {
+    "day": "08",
+    "name": "Notificação de Evasão",
+    "type": "CRADT",
+    "month": "Setembro"
+  },
+  {
+    "day": "09",
+    "name": "Último dia do período de solicitação de ajuste de matrícula nos componentes curriculares (via formulário de requerimento)",
+    "type": "CRADT",
+    "month": "Setembro"
+  },
+  {
+    "day": "09",
+    "name": "Encontro de Egressos do Curso de Administração",
+    "type": "Eventos",
+    "month": "Setembro"
+  },
+  {
+    "day": "16 e 17",
+    "name": "Sensibilização e Prevenção ao Suicídio",
+    "type": "Eventos",
+    "month": "Setembro"
+  },
+  {
+    "day": "22 a 24",
+    "name": "Solicitação de isenção de componente curricular (via formulário de requerimento)",
+    "type": "CRADT",
+    "month": "Setembro"
+  },
+  {
+    "day": "27",
+    "name": "Aniversário de Igarassu - Feriado Municipal",
+    "type": "Feriados",
+    "month": "Setembro"
+  },
+  {
+    "day": "30",
+    "name": "Último dia para solicitação de trancamento de matrícula e matrícula-vínculo - Apenas alunos veteranos (via formulário de requerimento)",
+    "type": "CRADT",
+    "month": "Setembro"
+  },
+
+  {
+    "day": "06 e 07",
+    "name": "Período para requerimento da validação de conhecimentos e experiências anteriores (via formulário de requerimento)",
+    "type": "CRADT",
+    "month": "Outubro"
+  },
+  {
+    "day": "12",
+    "name": "Nossa Senhora Aparecida - Feriado Nacional",
+    "type": "Feriados",
+    "month": "Outubro"
+  },
+  {
+    "day": "14",
+    "name": "Dia do (a) professor (a)",
+    "type": "Aula normal",
+    "month": "Outubro"
+  },
+  {
+    "day": "17",
+    "name": "Término da 1ª unidade letiva",
+    "type": "Início/Fim da unidade",
+    "month": "Outubro"
+  },
+  {
+    "day": "19",
+    "name": "Reunião dos Núcleos Docentes Estruturantes dos Cursos Superiores",
+    "type": "Reuniões",
+    "month": "Outubro"
+  },
+  {
+    "day": "20",
+    "name": "Reunião dos Colegiados dos Cursos Superiores",
+    "type": "Reuniões",
+    "month": "Outubro"
+  },
+  {
+    "day": "21",
+    "name": "Conselho de Classe dos Cursos Técnicos Subsequentes",
+    "type": "Reuniões",
+    "month": "Outubro"
+  },
+  {
+    "day": "23",
+    "name": "Prazo final para atualização dos diários – 1ª Unidade Letiva",
+    "type": "CRADT",
+    "month": "Outubro"
+  },
+  {
+    "day": "26 e 27",
+    "name": "Resultado da solicitação de isenção de componente curricular",
+    "type": "CRADT",
+    "month": "Outubro"
+  },
+  {
+    "day": "28",
+    "name": "Dia do Servidor Público - Ponto facultativo",
+    "type": "Feriados",
+    "month": "Outubro"
+  },
+  {
+    "day": "29",
+    "name": "Solicitação de reintegração curricular para o próximo semestre letivo (via formulário de requerimento)",
+    "type": "CRADT",
+    "month": "Outubro"
+  },
+  {
+    "day": "29",
+    "name": "Solicitação de reopção de curso para o próximo semestre letivo (via formulário de requerimento)",
+    "type": "CRADT",
+    "month": "Outubro"
+  },
+  {
+    "day": "30",
+    "name": "Solicitação de admissão por transferência entre Campi e de outros IF’s para o próximo semestre/ano letivo",
+    "type": "CRADT",
+    "month": "Outubro"
+  },
+  {
+    "day": "30",
+    "name": "Solicitação de mudança de turno para o próximo semestre letivo (via formulário de requerimento)",
+    "type": "CRADT",
+    "month": "Outubro"
+  },
+  {
+    "day": "02",
+    "name": "Finados - Feriado Nacional",
+    "type": "Feriados",
+    "month": "Novembro"
+  },
+  {
+    "day": "09 e 10",
+    "name": "Resultado da validação de conhecimentos e experiências anteriores",
+    "type": "CRADT",
+    "month": "Novembro"
+  },
+  {
+    "day": "16 e 17",
+    "name": "Resultado das solicitações de reintegração curricular e admissão por transferência entre Campi e de outros IF’s para o próximo semestre/ano letivo",
+    "type": "CRADT",
+    "month": "Novembro"
+  },
+  {
+    "day": "16 e 17",
+    "name": "Resultado da solicitação de mudança de turno para 2026.2",
+    "type": "CRADT",
+    "month": "Novembro"
+  },
+  {
+    "day": "16 e 17",
+    "name": "Resultado da solicitação de reopção de curso para o próximo semestre letivo",
+    "type": "CRADT",
+    "month": "Novembro"
+  },
+  {
+    "day": "18 e 19",
+    "name": "Novembro Negro",
+    "type": "Eventos",
+    "month": "Novembro"
+  },
+  {
+    "day": "20",
+    "name": "Dia Nacional de Zumbi e da Consciência Negra - Feriado Nacional",
+    "type": "Feriados",
+    "month": "Novembro"
+  },
+
+  {
+    "day": "01 e 02",
+    "name": "Solicitação de reabertura de matrícula para 2026.2 para alunos com matrículas trancadas (via formulário de requerimento)",
+    "type": "CRADT",
+    "month": "Dezembro"
+  },
+  {
+    "day": "08",
+    "name": "Nossa Senhora da Conceição - Feriado Municipal",
+    "type": "Feriados",
+    "month": "Dezembro"
+  },
+  {
+    "day": "09 e 10",
+    "name": "3ª SELOQ (Semana da Logística e da Qualidade)",
+    "type": "Eventos",
+    "month": "Dezembro"
+  },
+  {
+    "day": "22",
+    "name": "Reunião dos Núcleos Docentes Estruturantes dos Cursos Superiores",
+    "type": "Reuniões",
+    "month": "Dezembro"
+  },
+  {
+    "day": "21 a 23",
+    "name": "Demo Week",
+    "type": "Eventos",
+    "month": "Dezembro"
+  },
+  {
+    "day": "23",
+    "name": "Término da 2ª unidade letiva",
+    "type": "Início/Fim da unidade",
+    "month": "Dezembro"
+  },
+  {
+    "day": "24",
+    "name": "Véspera do Natal - Ponto facultativo",
+    "type": "Feriados",
+    "month": "Dezembro"
+  },
+  {
+    "day": "24",
+    "name": "Natal - Feriado Nacional",
+    "type": "Feriados",
+    "month": "Dezembro"
+  },
+  {
+    "day": "28 e 29",
+    "name": "Exames Finais",
+    "type": "Provas",
+    "month": "Dezembro"
+  },
+  {
+    "day": "29",
+    "name": "Conselho de Classe dos Cursos Técnicos Subsequentes",
+    "type": "Reuniões",
+    "month": "Dezembro"
+  },
+  {
+    "day": "30",
+    "name": "Reunião dos Colegiados dos Cursos Superiores",
+    "type": "Reuniões",
+    "month": "Dezembro"
+  },
+  {
+    "day": "30",
+    "name": "Último dia para envio do relatório de atividades docentes",
+    "type": "CRADT",
+    "month": "Dezembro"
+  },
+  {
+    "day": "30",
+    "name": "Prazo final para atualização dos diários – 2ª Unidade Letiva",
+    "type": "CRADT",
+    "month": "Dezembro"
+  },
+  {
+    "day": "30",
+    "name": "Fechamento do Semestre no Q-acadêmico",
+    "type": "CRADT",
+    "month": "Dezembro"
+  },
+  {
+    "day": "30",
+    "name": "Encerramento do semestre letivo 2026.2",
+    "type": "Início/Fim do período",
+    "month": "Dezembro"
+  },
+  {
+    "day": "31",
+    "name": "Véspera do Ano Novo - Ponto facultativo",
+    "type": "Feriados",
+    "month": "Dezembro"
+  },
+  {
+    "day": "01",
+    "name": "Confraternização Universal - Feriado Nacional",
+    "type": "Feriados",
+    "month": "Janeiro"
+  },
+  {
+    "day": "04",
+    "name": "Início do Recesso Acadêmico",
+    "type": "Início/Fim do recesso",
+    "month": "Janeiro"
+  },
+  {
+    "day": "25 a 27",
+    "name": "Matrícula Obrigatória para o próximo semestre/ano letivo (alunos veteranos - via Q-Acadêmico)",
+    "type": "CRADT",
+    "month": "Janeiro"
+  },
+  {
+    "day": "02",
+    "name": "Fim do Recesso Acadêmico",
+    "type": "Início/Fim do recesso",
+    "month": "Fevereiro"
+  },
+  {
+    "day": "03 e 04",
+    "name": "Encontro pedagógico 2027.1",
+    "type": "Reuniões",
+    "month": "Fevereiro"
+  },
+  {
+    "day": "05",
+    "name": "INÍCIO DO SEMESTRE LETIVO 2027.1",
+    "type": "Início/Fim do período",
+    "month": "Fevereiro"
+  }
+]
+}
+
+
+
+
+
+
+
+
+
+
+
