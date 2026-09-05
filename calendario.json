@@ -2,6 +2,12 @@
 "title": "Calendário 2026.2",
 "lastUpdate": "2026-09-04T00:00:00-08:00",
 "events": [
+    {
+    "day": "07 a 10",
+    "name": "Matrícula Obrigatória para o próximo semestre/ano letivo (alunos veteranos - via Q-Acadêmico)",
+    "type": "CRADT",
+    "month": "Agosto"
+  },
   {
     "day": "10",
     "name": "Fim do Recesso Acadêmico",
@@ -9,13 +15,7 @@
     "month": "Agosto"
   },
   {
-    "day": "07 a 10",
-    "name": "Matrícula Obrigatória para o próximo semestre/ano letivo (alunos veteranos - via Q-Acadêmico)",
-    "type": "CRADT",
-    "month": "Agosto"
-  },
-  {
-    "day": "10 e 11",
+    "day": "11 e 12",
     "name": "Encontro pedagógico 2026.2",
     "type": "Reuniões",
     "month": "Agosto"
@@ -119,7 +119,7 @@
     "month": "Outubro"
   },
   {
-    "day": "14",
+    "day": "15",
     "name": "Dia do (a) professor (a)",
     "type": "Aula normal",
     "month": "Outubro"
@@ -276,7 +276,7 @@
     "month": "Dezembro"
   },
   {
-    "day": "24",
+    "day": "25",
     "name": "Natal - Feriado Nacional",
     "type": "Feriados",
     "month": "Dezembro"
